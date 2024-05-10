@@ -93,7 +93,6 @@
     </section>   
   </div>
     
-  <?php include 'includes/footer.php'; ?>
   <?php include 'includes/candidates_modal.php'; ?>
 </div>
 <?php include 'includes/scripts.php'; ?>
